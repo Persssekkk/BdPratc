@@ -18,7 +18,7 @@ plt.figure(figsize=(10, 8))
 plt.scatter(longitudes, latitudes, s=1)  # Размер точек можно настроить по необходимости
 plt.xlabel("Longitude")
 plt.ylabel("Latitude")
-plt.title("Александрова / Coastline Map")
+plt.title("Александрова Е. 305 - Coastline map")
  
 # Вывод карты
 plt.show()
